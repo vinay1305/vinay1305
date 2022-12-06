@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinay1305
-- 👀 I’m interested in Cricket and Coding
-- 🌱 I’m currently learning react js,react native,node js
+- 👀 I’m interested in Cricket,Travelling and Coding ..(CTC lol)
+- 🌱 I’m currently learning react js,react native,node js,NextJS
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ...
 
