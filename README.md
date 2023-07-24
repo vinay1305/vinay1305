@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinay1305
 - 👀 I’m interested in Cricket,Travelling and Coding ..(CTC lol)
-- 🌱 I’m currently learning react js,react native,node js,NextJS
-- 💞️ I’m looking to collaborate on React
+- 🌱 I’m currently working  on react js,node js,NextJS
+- 💞️ I’m looking to collaborate on React,nextjs
 - 📫 How to reach me ...
 
 <!---
